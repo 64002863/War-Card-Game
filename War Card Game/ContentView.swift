@@ -25,7 +25,7 @@ struct ContentView: View {
                 .ignoresSafeArea()
             
             VStack {
-                
+                //yeet cuh
                 Spacer()
                 Image("logo")
                 Spacer()
